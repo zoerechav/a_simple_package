@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/package/__init__.py
+src/package/math_utils.py
+src/package.egg-info/PKG-INFO
+src/package.egg-info/SOURCES.txt
+src/package.egg-info/dependency_links.txt
+src/package.egg-info/top_level.txt
+tests/test_me.py
